@@ -1,0 +1,15 @@
+/Users/eddygiovanniguebre/Documents/dcit318-assignment1-10940005/GradeCalculator/bin/Debug/net7.0/GradeCalculator
+/Users/eddygiovanniguebre/Documents/dcit318-assignment1-10940005/GradeCalculator/bin/Debug/net7.0/GradeCalculator.deps.json
+/Users/eddygiovanniguebre/Documents/dcit318-assignment1-10940005/GradeCalculator/bin/Debug/net7.0/GradeCalculator.runtimeconfig.json
+/Users/eddygiovanniguebre/Documents/dcit318-assignment1-10940005/GradeCalculator/bin/Debug/net7.0/GradeCalculator.dll
+/Users/eddygiovanniguebre/Documents/dcit318-assignment1-10940005/GradeCalculator/bin/Debug/net7.0/GradeCalculator.pdb
+/Users/eddygiovanniguebre/Documents/dcit318-assignment1-10940005/GradeCalculator/obj/Debug/net7.0/GradeCalculator.csproj.AssemblyReference.cache
+/Users/eddygiovanniguebre/Documents/dcit318-assignment1-10940005/GradeCalculator/obj/Debug/net7.0/GradeCalculator.GeneratedMSBuildEditorConfig.editorconfig
+/Users/eddygiovanniguebre/Documents/dcit318-assignment1-10940005/GradeCalculator/obj/Debug/net7.0/GradeCalculator.AssemblyInfoInputs.cache
+/Users/eddygiovanniguebre/Documents/dcit318-assignment1-10940005/GradeCalculator/obj/Debug/net7.0/GradeCalculator.AssemblyInfo.cs
+/Users/eddygiovanniguebre/Documents/dcit318-assignment1-10940005/GradeCalculator/obj/Debug/net7.0/GradeCalculator.csproj.CoreCompileInputs.cache
+/Users/eddygiovanniguebre/Documents/dcit318-assignment1-10940005/GradeCalculator/obj/Debug/net7.0/GradeCalculator.dll
+/Users/eddygiovanniguebre/Documents/dcit318-assignment1-10940005/GradeCalculator/obj/Debug/net7.0/refint/GradeCalculator.dll
+/Users/eddygiovanniguebre/Documents/dcit318-assignment1-10940005/GradeCalculator/obj/Debug/net7.0/GradeCalculator.pdb
+/Users/eddygiovanniguebre/Documents/dcit318-assignment1-10940005/GradeCalculator/obj/Debug/net7.0/GradeCalculator.genruntimeconfig.cache
+/Users/eddygiovanniguebre/Documents/dcit318-assignment1-10940005/GradeCalculator/obj/Debug/net7.0/ref/GradeCalculator.dll
